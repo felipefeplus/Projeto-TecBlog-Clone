@@ -19,7 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O TecBlog é um clone da página sobre tecnologia e informações, onde é possível ver a cocnstrução do site e layout da pagina 💰
+O TecBlog é meu primeiro site um clone da página sobre tecnologia e informações, onde é possível ver a construção do site e layout da pagina:
+-HomePage - Página inicial do site
+-Navigation Bar - Barra de navegação
+-Navigation and post - Navegação e postagem
 
 ## 🔖 Layout
 
