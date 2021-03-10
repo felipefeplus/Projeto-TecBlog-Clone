@@ -25,7 +25,7 @@ O TecBlog é meu primeiro site um clone da página sobre tecnologia e informaç�
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto 
+Você pode visualizar o layout do projeto <br>
 ![Alt text](https://github.com/felipe-gomes-vicente/TecBlog-preview/blob/main/tecblog-preview.gif ) <br>
 
 
